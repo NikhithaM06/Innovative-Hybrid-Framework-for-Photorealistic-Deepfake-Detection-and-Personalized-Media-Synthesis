@@ -3,7 +3,7 @@
 🚀 **Project Overview**  
 This project focuses on developing an **integrated face forensics system** to detect deepfake content using a hybrid approach combining **CNN-based deep learning** and **traditional image forensic techniques**.  
 
-🔗 **Project Files:** [Google Drive Link](https://drive.google.com/drive/folders/1mUeN_yabhBTP2DQ1YfRN38xAnx1h-Kmp?usp=drive_link)  
+🔗 **Project Files:** [Google Drive Link]https://drive.google.com/drive/folders/1mUeN_yabhBTP2DQ1YfRN38xAnx1h-Kmp?usp=drive_link  
 
 ## **Installation & Setup**  
 
